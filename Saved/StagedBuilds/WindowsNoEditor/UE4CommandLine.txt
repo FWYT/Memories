@@ -1,0 +1,1 @@
+../../../Gallery2/Gallery2.uproject  /Temp/Autosaves/Game/UEDPCgallery2 -Messaging -SessionId=87130846417DA675184BC09AA6D7BFC0 -SessionOwner=Costco063 -SessionName='Play On Device'   
